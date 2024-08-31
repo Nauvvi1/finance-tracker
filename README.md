@@ -9,7 +9,7 @@ Finance Tracker — это веб-приложение для управлени
 ### 1. Клонируйте репозиторий
 
 git clone https://github.com/Nauvvi1/finance-tracker.git
-cd REPOSITORY_NAME
+cd finance-tracker
 
 ### 2. Запустите сервер
 
